@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="chien" size="1.000000 1.000000" />
+    <ImageTarget name="cheval" size="1.000000 0.708000" />
+    <ImageTarget name="chat" size="1.000000 1.043664" />
+    <ImageTarget name="mouton" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
